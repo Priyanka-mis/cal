@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(222, 242, 246);
+
+}
+
+.container{
+    width: 420px;
+    background-color:#0e6253 ;
+    text-align: center;
+    margin: auto;
+    padding: 11px;
+    margin-top: 55px;
+
+}
+
+h1{
+    text-align: center;
+    color: #0e6253 ;
+    font-weight: 700;
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+
+.container input{
+    width: 90%;
+    padding: 11px;
+    border: none;
+    font-size: 20px;
+    margin-top: 11px;
+    border-radius: 3px;
+}
+
+.container button{
+    width: 90px;
+    padding: 7px;
+    margin: 5px;
+    border: none;
+    font-size: 20px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.container .eual{
+    background-color: rgb(0, 162, 255);
+}
+
+
